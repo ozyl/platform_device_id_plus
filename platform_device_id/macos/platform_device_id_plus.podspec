@@ -3,7 +3,7 @@
 # Run `pod lib lint platform_device_id.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'platform_device_id'
+  s.name             = 'platform_device_id_plus'
   s.version          = '0.0.1'
   s.summary          = 'macos for platform_device_id plugin.'
   s.description      = <<-DESC
